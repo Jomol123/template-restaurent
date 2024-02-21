@@ -1,0 +1,147 @@
+@media screen and (max-width: 768px) {
+    .main-div {
+        display: inline;
+    }
+
+    .main {
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 20px;
+    }
+
+    .head-para {
+        padding-top: 8px;
+        width: 323px;
+    }
+
+    .paradiv1 {
+        color: #d0ff95;
+        font-size: 46px;
+        line-height: 40px;
+    }
+
+    .paradiv2 {
+        color: white;
+        font-size: 18px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .head-section {
+        width: 289px;
+    }
+
+    .menu {
+        margin-left: 28px;
+    }
+
+    .details {
+        display: inline;
+
+    }
+
+    .details-para .para {
+        font-size: 52px;
+        width: 338px;
+        padding: 100px 0px 0px 20px;
+
+    }
+
+    .paragraph-pa .para1,
+    .para2 {
+        font-size: 20px;
+        width: 338px;
+        padding: 28px 0px 0px 20px;
+
+    }
+
+    .detail-section {
+        padding-bottom: 100px;
+    }
+
+    .service-section {
+        display: inline;
+    }
+
+    .service-content {
+        width: 323px;
+        padding-left: 20px;
+    }
+
+    .service-img img {
+        width: 338px;
+        height: 306px;
+        padding: 28px 0px 0px 20px;
+    }
+
+    .service-head {
+        font-size: 44px;
+        padding-top: 20px
+    }
+
+    .main-content {
+        width: 323px;
+    }
+
+    .content-section {
+        padding: 20px;
+        padding-bottom: 150px;
+        padding-top: 150px;
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+    }
+
+    .content-para {
+        font-size: 22px;
+        padding-top: 80px;
+        font-size: 26px;
+    
+    line-height: 41px;
+
+    }
+
+    .content-imge img {
+        width: 130px;
+    }
+
+    .feedback-point {
+        display: inline;
+    }
+
+    .cust-fb {
+        width: 300px;
+        margin: 49px 50px 50px 20px;
+        padding: 30px 30px 30px 30px;
+        font-size: 27px;
+    }
+
+
+
+    .fb-head {
+        font-size: 39px;
+    }
+    
+    .contact{
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 20px;
+    }
+    .contact-content{
+        display: inline;
+    }
+    .contact-details {
+        margin-top: 10px;
+    }
+    .contact-head{
+        font-size: 35px;
+    }
+    .booking{
+        padding: 25px;
+        font-size: 28px;
+        margin: 17px;
+    }
+}
